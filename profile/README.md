@@ -10,8 +10,8 @@
 
 ![](https://live.staticflickr.com/65535/52547089213_c19f9ffcfc_o.png)[Instagram](https://ual.life/iggh)
 
+Contact: [umbra.aeterna.labs@gmail.com](mailto:umbra.aeterna.labs@gmail.com)
+
 ---
 
-Formed for the development of open-source apps on the 6th of March 2020.
-All requests, suggestions, and inquiries should be sent to umbra.aeterna.labs@gmail.com (please include a subject)
-
+Umbra Aeterna Labs was formed on the 6th of March in 2020
