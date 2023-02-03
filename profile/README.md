@@ -6,7 +6,7 @@
 
 * 🐦 [Twitter](https://ual.life/twgh)
 
-* 📺 [YouTube](https://ual.life/ytgh)
+<!-- * 📺 [YouTube](https://ual.life/ytgh) -->
 
 <!-- * ![](https://live.staticflickr.com/65535/52364413048_e9211f92e9_o.png) [Twitter](https://ual.life/twgh) -->
 
